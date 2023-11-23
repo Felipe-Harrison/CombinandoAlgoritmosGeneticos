@@ -1,0 +1,45 @@
+trainRate = 0.3  # Proporção da base de dados destinada a treino
+numberCromossomos = VARIADO  # Número de cromossomos gerados
+numInteracoes = 200  # Número de execuções do Algoritmo Genetico
+taxaMutacao = 0.5  # Taxa que os cromossomos vão sofrer mutação
+
+Proporcao Treino: 10
+Acerto Medio: 68.53
+Tempo Gasto: 0.46059393882751465 s
+
+Proporcao Treino: 20
+Acerto Medio: 69.07
+Tempo Gasto: 0.43145132064819336 s
+
+Proporcao Treino: 30
+Acerto Medio: 69.13
+Tempo Gasto: 0.45202159881591797 s
+
+Proporcao Treino: 40
+Acerto Medio: 69.13
+Tempo Gasto: 0.6748054027557373 s
+
+Proporcao Treino: 50
+Acerto Medio: 69.33
+Tempo Gasto: 0.5071854591369629 s
+
+Proporcao Treino: 60
+Acerto Medio: 68.97
+Tempo Gasto: 0.47489213943481445 s
+
+Proporcao Treino: 70
+Acerto Medio: 68.97
+Tempo Gasto: 0.5732591152191162 s
+
+Proporcao Treino: 80
+Acerto Medio: 69.2
+Tempo Gasto: 0.7435178756713867 s
+
+Proporcao Treino: 90
+Acerto Medio: 69.5
+Tempo Gasto: 0.7765333652496338 s
+
+Proporcao Treino: 100
+Acerto Medio: 68.9
+Tempo Gasto: 0.7627964019775391 s
+
