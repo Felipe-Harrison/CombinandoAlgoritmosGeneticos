@@ -119,7 +119,6 @@ def algoritmoGenetico(
             filho.mutacao(taxaMutacao = taxaMutacao)
             filho.avalia(basedados)
 
-        print(len(filhos))
     # Reformular grupo
     
         # Substituir os piores pelos novos filhos
